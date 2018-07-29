@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\bin\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.deps.json
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\bin\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.runtimeconfig.json
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\bin\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\bin\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.dll
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\bin\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.pdb
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\obj\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\obj\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\obj\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\obj\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\obj\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.dll
+C:\Users\Asus\source\repos\JoinCeng_ASPNETCORE_API_1\JoinCeng_ASPNETCORE_API_1\obj\Debug\netcoreapp2.0\JoinCeng_ASPNETCORE_API_1.pdb
